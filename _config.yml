@@ -21,7 +21,7 @@ repository               : "msmart14/maryannesmart"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "DeathValleySquare.jpeg"
   name             : "About Me"
   pronouns         : "she/her"  
   bio              : "I completed my undergraduate education at Indiana University and my PhD at UC San Diego. I am now an assistant professor of practice in the computer science department at Purdue University."
