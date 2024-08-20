@@ -3,7 +3,6 @@ title: "What Are the Chances? Explaining the Epsilon Parameter in Differential P
 collection: publications
 category: manuscripts
 permalink: https://www.usenix.org/conference/usenixsecurity23/presentation/nanayakkara
-date: 2023
 venue: 'USENIX Security'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Priyanka Nanayakkara, Mary Anne Smart, Rachel Cummings, Gabriel Kaptchuk, and Elissa Redmiles. USENIX Security 2023.'
