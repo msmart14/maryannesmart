@@ -1,0 +1,12 @@
+{% include base_path %}
+
+{% assign title = post.title %}
+
+
+<div class="{{ include.type | default: "list" }}__item">
+
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="{{ post.paperurl }}">{{ title }}</a> 
+    </h2>
+    <p>{{ post.authors }}.<br /> {{ post.venue }}.</p>
+</div>
