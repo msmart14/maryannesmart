@@ -1,0 +1,7 @@
+{% include base_path %}
+
+<div class="{{ include.type | default: "list" }}__item">
+    <p >
+      {{ post.date }}: {{ post.update }}
+    </p>
+</div>
